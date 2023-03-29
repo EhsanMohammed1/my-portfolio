@@ -54,7 +54,7 @@ const Portfolio = () => {
             <div className="max-w-[250px] lg:max-w-[320px] h-[187px] lg:h-[220px] overflow-hidden">
               <img
                 className="object-cover h-full lg:h-[220px] hover:scale-110 transition-all duration-500"
-                src="https://images.ctfassets.net/23aumh6u8s0i/3vCAkDy9os54mkVdD09lps/2b5386b4302f7ce38c4f6a69d6379dc0/reactjs"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"
                 alt=""
               />
             </div>
@@ -68,21 +68,21 @@ const Portfolio = () => {
             <div className="max-w-[250px] lg:max-w-[320px] h-[187px] lg:h-[220px] overflow-hidden">
               <img
                 className="object-cover h-full lg:h-[220px] hover:scale-110 transition-all duration-500"
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"
+                src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"
                 alt=""
               />
             </div>
             <div className="max-w-[250px] lg:max-w-[320px] h-[187px] lg:h-[220px] overflow-hidden">
               <img
                 className="object-cover h-full lg:h-[220px] hover:scale-110 transition-all duration-500"
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/2048px-Antu_mysql-workbench.svg.png"
+                src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg"
                 alt=""
               />
             </div>
-            <div className="max-w-[250px] lg:max-w-[320px] h-[187px] lg:h-[220px] overflow-hidden">
+            <div className="max-w-[250px] lg:max-w-[320px] h-[187px] lg:h-[220px] overflow-hidden ">
               <img
                 className="object-cover h-full lg:h-[220px] hover:scale-110 transition-all duration-500"
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_ybcxg3o1j-KxCXUdjvnRir-jlogudwihXJcekasUGBCWlApDKd48KJ8-m30EwYL3W4&usqp=CAU"
+                src="https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1627938869270-95JFU0YPSRRE8XU4TFGM/golang+icon.png"
                 alt=""
               />
             </div>
